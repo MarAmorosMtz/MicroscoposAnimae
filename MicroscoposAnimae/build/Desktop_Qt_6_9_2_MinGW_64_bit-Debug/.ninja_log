@@ -1,0 +1,19 @@
+# ninja log v6
+23	132	7788306081420691	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b293e4a9900ce56c
+3517	4552	7788297373143709	MicroscoposAnimae.exe	e9c4efc0025dea9c
+111	811	7788297345160375	MicroscoposAnimae_autogen/timestamp	fbf89320169e6a58
+819	3490	7788297346160581	CMakeFiles/MicroscoposAnimae.dir/main.cpp.obj	b65008cb7f49b4db
+111	811	7788297345160375	MicroscoposAnimae_autogen/mocs_compilation.cpp	fbf89320169e6a58
+111	811	7788297345160375	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/timestamp	fbf89320169e6a58
+816	3516	7788297346130553	CMakeFiles/MicroscoposAnimae.dir/MicroscoposAnimae_autogen/mocs_compilation.cpp.obj	8e4158f24aab354
+111	811	7788297345160375	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/mocs_compilation.cpp	fbf89320169e6a58
+822	3463	7788297346190590	CMakeFiles/MicroscoposAnimae.dir/mainwindow.cpp.obj	cbbde759f3a7dfc3
+133	1235	7788306091523420	build.ninja	d1886456494bebb
+36	161	7788306093382100	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b293e4a9900ce56c
+171	383	7788306094732428	MicroscoposAnimae_autogen/timestamp	fbf89320169e6a58
+171	383	7788306094732428	MicroscoposAnimae_autogen/mocs_compilation.cpp	fbf89320169e6a58
+171	383	7788306094732428	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/timestamp	fbf89320169e6a58
+171	383	7788306094732428	D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/mocs_compilation.cpp	fbf89320169e6a58
+384	4971	7788306096862893	CMakeFiles/MicroscoposAnimae.dir/main.cpp.obj	b65008cb7f49b4db
+387	5043	7788306096902906	CMakeFiles/MicroscoposAnimae.dir/mainwindow.cpp.obj	cbbde759f3a7dfc3
+5043	5472	7788306143453826	MicroscoposAnimae.exe	e9c4efc0025dea9c
