@@ -42,8 +42,10 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/MicroscoposAnimae/MicroscoposAnimae/*.cpp")
 set(OLD_GLOB
   "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/EWIEGA46WW/moc_imagedroparea.cpp"
   "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/EWIEGA46WW/moc_mainwindow.cpp"
   "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/mocs_compilation.cpp"
+  "D:/MicroscoposAnimae/MicroscoposAnimae/imagedroparea.cpp"
   "D:/MicroscoposAnimae/MicroscoposAnimae/main.cpp"
   "D:/MicroscoposAnimae/MicroscoposAnimae/mainwindow.cpp"
   )
@@ -66,6 +68,7 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/MicroscoposAnimae/Microsco
 set(OLD_GLOB
   "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/include/ui_mainwindow.h"
   "D:/MicroscoposAnimae/MicroscoposAnimae/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MicroscoposAnimae_autogen/moc_predefs.h"
+  "D:/MicroscoposAnimae/MicroscoposAnimae/imagedroparea.h"
   "D:/MicroscoposAnimae/MicroscoposAnimae/mainwindow.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

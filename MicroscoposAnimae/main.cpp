@@ -17,7 +17,6 @@ int main(int argc, char *argv[])
             break;
         }
     }
-    printf("pitito de burro");
     MainWindow w;
     w.show();
     return a.exec();

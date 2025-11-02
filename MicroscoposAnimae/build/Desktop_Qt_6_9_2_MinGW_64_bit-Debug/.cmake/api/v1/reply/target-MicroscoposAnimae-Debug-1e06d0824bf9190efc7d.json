@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 69,
+				"line" : 72,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 52,
+				"line" : 55,
 				"parent" : 0
 			},
 			{
@@ -378,7 +378,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6
 			]
 		}
 	],
@@ -501,7 +502,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6
 			]
 		},
 		{
@@ -509,7 +511,8 @@
 			"sourceIndexes" : 
 			[
 				3,
-				6
+				7,
+				8
 			]
 		},
 		{
@@ -524,14 +527,14 @@
 			"sourceIndexes" : 
 			[
 				5,
-				7
+				9
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				8
+				10
 			]
 		}
 	],
@@ -570,6 +573,17 @@
 			"backtrace" : 4,
 			"path" : "MicroscoposAnimae_es_MX.ts",
 			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "imagedroparea.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "imagedroparea.h",
+			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
